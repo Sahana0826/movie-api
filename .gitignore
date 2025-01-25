@@ -1,0 +1,14 @@
+# Ignore the .env file
+.env
+
+# Node modules and build directories
+node_modules/
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Ignore IntelliJ IDEA project settings folder
+.idea/
